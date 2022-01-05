@@ -12,7 +12,7 @@
 
 > 4. **AWS SageMaker** -->
 
-- [x] Week 01 Notes: [Week 01](./week_01/C1_W1.pdf).
+- [x] Week 01 Notes: [Week 01](.Week_01/C1_W1.pdf).
 
 - [x] Week 01 Assignment: [Week 01](.Week_01/C1_W1_Assignment.ipynb).
 
@@ -32,7 +32,7 @@
 
 > 5. **SHAP (SHapley Additive exPlanations)** -->
 
-- [x] Week 02 Notes: [Week 02](./week_02/C1_W2.pdf).
+- [x] Week 02 Notes: [Week 02](./Week_02/C1_W2.pdf).
 
 - [x] Week 02 Assignment: [Week 02](.Week_02/C1_W2_Assignment.ipynb).
 
@@ -46,7 +46,7 @@
 
 > 3. **Model Hosting**. -->
 
-- [x] Week 03 Notes: [Week 03](./week_03/C1_W3.pdf).
+- [x] Week 03 Notes: [Week 03](./Week_03/C1_W3.pdf).
 
 - [x] Week 03 Assignment: [Week 03](.Week_03/C1_W3_Assignment.ipynb).
 
@@ -58,6 +58,6 @@
 
 > 2. **Text Analysis Evolution**: Word2Vec (CBOW & Skip-gram), GloVe,  FastText, Transformer, BlazingText, ELMo, GPT, BERT, ... -->
 
-- [x] Week 04 Notes: [Week 04](./week_04/C1_W4.pdf).
+- [x] Week 04 Notes: [Week 04](./Week_04/C1_W4.pdf).
 
 - [x] Week 04 Assignment: [Week 04](.Week_04/C1_W4_Assignment.ipynb).
