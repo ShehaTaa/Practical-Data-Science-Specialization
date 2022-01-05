@@ -1,5 +1,8 @@
 ## [Course 01: Analyze Datasets and Train ML Models using AutoML](https://www.coursera.org/learn/automl-datasets-ml-models?specialization=practical-data-science)
 
+![](PDS 01 Certificate.png){width=50%} 
+<center><img src="PDS 01 Certificate.png" alt="PDS 01 Certificate" width=70%/></center>
+
 ### Week 01 - Explore the Use Case and Analyze the Dataset:
 
  - [x] Keynotes:
