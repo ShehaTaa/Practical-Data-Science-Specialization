@@ -1,6 +1,6 @@
 ## [Course 01: Analyze Datasets and Train ML Models using AutoML](https://www.coursera.org/learn/automl-datasets-ml-models?specialization=practical-data-science)
 
-### Week 01:
+### Week 01 - Explore the Use Case and Analyze the Dataset:
 
  - [x] Keynotes:
 
@@ -10,13 +10,13 @@
 
  3. **Deep learning (DL)** is a subset of machine learning that uses artificial neural networks to learn from data.
 
- 4. **AWS SageMaker** -->
+ 4. **AWS SageMaker** 
 
 - [x] Week 01 Notes: [Week 01](./Week_01/C1_W1.pdf).
 
-- [x] Week 01 Assignment: [Week 01](./Week_01/C1_W1_Assignment.ipynb).
+- [x] Week 01 Assignment: [Week 01 - visualize dataset](./Week_01/C1_W1_Assignment.ipynb).
 
-### Week 02: 
+### Week 02 - Data Bias and Feature Importance: 
 
  - [x] Keynotes:
 
@@ -34,9 +34,9 @@
 
 - [x] Week 02 Notes: [Week 02](./Week_02/C1_W2.pdf).
 
-- [x] Week 02 Assignment: [Week 02](./Week_02/C1_W2_Assignment.ipynb).
+- [x] Week 02 Assignment: [Week 02 - Detect data bias with Amazon SageMaker Clarify](./Week_02/C1_W2_Assignment.ipynb).
 
-### Week 03: 
+### Week 03 - Use Automated Machine Learning to train a Text Classifier: 
 
  - [x] Keynotes:
 
@@ -48,9 +48,9 @@
 
 - [x] Week 03 Notes: [Week 03](./Week_03/C1_W3.pdf).
 
-- [x] Week 03 Assignment: [Week 03](./Week_03/C1_W3_Assignment.ipynb).
+- [x] Week 03 Assignment: [Week 03 - Train a model with Amazon SageMaker Autopilot](./Week_03/C1_W3_Assignment.ipynb).
 
-### Week 04:
+### Week 04 - Built-in algorithms:
 
  - [x] Keynotes
 
@@ -60,4 +60,4 @@
 
 - [x] Week 04 Notes: [Week 04](./Week_04/C1_W4.pdf).
 
-- [x] Week 04 Assignment: [Week 04](./Week_04/C1_W4_Assignment.ipynb).
+- [x] Week 04 Assignment: [Week 04 - Train a text classifier using Amazon SageMaker BlazingText built-in algorithm](./Week_04/C1_W4_Assignment.ipynb).
